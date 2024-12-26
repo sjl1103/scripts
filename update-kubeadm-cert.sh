@@ -1,5 +1,4 @@
 #!/bin/bash
-#hanxianchao,微信: luckylucky421302
 set -o errexit
 set -o pipefail
 # set -o xtrace
